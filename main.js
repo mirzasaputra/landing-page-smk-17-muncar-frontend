@@ -1,0 +1,41 @@
+import Route from '@/core/route'
+
+import '@/assets/js/jquery.min'
+import "@/assets/vendors/bootstrap/css/bootstrap.min.css"
+import "@/assets/vendors/animate/animate.min.css"
+import "@/assets/vendors/animate/custom-animate.css"
+import "@/assets/vendors/fontawesome/css/all.min.css"
+import "@/assets/vendors/jarallax/jarallax.css"
+import "@/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css"
+import "@/assets/vendors/nouislider/nouislider.min.css"
+import "@/assets/vendors/nouislider/nouislider.pips.css"
+import "@/assets/vendors/odometer/odometer.min.css"
+import "@/assets/vendors/swiper/swiper.min.css"
+import "@/assets/vendors/icomoon-icons/style.css"
+import "@/assets/vendors/tiny-slider/tiny-slider.min.css"
+import "@/assets/vendors/reey-font/stylesheet.css"
+import "@/assets/vendors/owl-carousel/owl.carousel.min.css"
+import "@/assets/vendors/owl-carousel/owl.theme.default.min.css"
+import "@/assets/vendors/twentytwenty/twentytwenty.css"
+import "@/assets/css/zilom.css"
+import "@/assets/css/zilom-responsive.css"
+import '@/assets/css/style.css'
+
+import "@/assets/vendors/bootstrap/js/bootstrap.bundle.min"
+import "@/assets/vendors/jarallax/jarallax.min"
+import "@/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min"
+import "@/assets/vendors/jquery-appear/jquery.appear.min"
+import "@/assets/vendors/jquery-circle-progress/jquery.circle-progress.min"
+import "@/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min"
+import "@/assets/vendors/jquery-validate/jquery.validate.min"
+import "@/assets/vendors/nouislider/nouislider.min"
+import "@/assets/vendors/odometer/odometer.min"
+import "@/assets/vendors/swiper/swiper.min"
+import "@/assets/vendors/tiny-slider/tiny-slider.min"
+import "@/assets/vendors/wnumb/wNumb.min"
+import "@/assets/vendors/countdown/countdown.min"
+import "@/assets/vendors/owl-carousel/owl.carousel.min"
+import "@/assets/vendors/twentytwenty/twentytwenty"
+import "@/assets/vendors/twentytwenty/jquery.event.move"
+
+Route()

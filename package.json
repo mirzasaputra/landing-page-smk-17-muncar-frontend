@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "auto-bind": "^5.0.1",
+    "bootstrap": "^5.2.2",
+    "jquery": "^3.6.1",
+    "jsx-dom": "^8.0.3",
+    "sweetalert2": "^11.6.5"
+  }
+}
