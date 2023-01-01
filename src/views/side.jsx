@@ -75,7 +75,8 @@ export default class extends Component {
                                                         <ul>
                                                             <li><a href="index.html">Tentang Kami</a></li>
                                                             <li><a href="index-2.html">Visi dan Misi</a></li>
-                                                            <li><a href="index-2.html">Struktur Organisasi</a></li>
+                                                            <li><router-link link="/organizational-structure">Struktur Organisasi</router-link></li>
+                                                            {/* <li><a href="index-2.html">Struktur Organisasi</a></li> */}
                                                             <li><a href="index-2.html">Lokasi</a></li>
                                                             <li><a href="index-2.html">Street View</a></li>
                                                         </ul>
